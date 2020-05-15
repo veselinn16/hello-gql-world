@@ -1,0 +1,24 @@
+{
+  "name": "gql",
+  "version": "1.0.0",
+  "description": "\"# hello-gql-world\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veselinn16/hello-gql-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veselinn16/hello-gql-world/issues"
+  },
+  "homepage": "https://github.com/veselinn16/hello-gql-world#readme",
+  "dependencies": {
+    "graphql": "^15.0.0",
+    "graphql-tools": "^5.0.0"
+  }
+}
