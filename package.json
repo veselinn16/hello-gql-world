@@ -19,6 +19,6 @@
   "homepage": "https://github.com/veselinn16/hello-gql-world#readme",
   "dependencies": {
     "graphql": "^15.0.0",
-    "graphql-tools": "^5.0.0"
+    "graphql-tools": "^9.0.28"
   }
 }
